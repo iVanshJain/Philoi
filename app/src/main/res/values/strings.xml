@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Philoi</string>
+    <string name="errorintflite">Could not initialize classifier and views</string>
+    <string name="message">Message</string>
+</resources>
